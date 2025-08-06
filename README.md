@@ -12,3 +12,8 @@
 
 #### Simplilearn Certificate:
 ![image alt](https://github.com/AdiSharan0712/5195900_AdiSharanA/blob/main/GIT/Certificate/Simplilearn%20certificate.png?raw=true)
+
+### C Programming Course Screenshots:
+
+#### Introduction to C Sololearn Certificate:
+![image alt]()
