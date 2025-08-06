@@ -18,3 +18,6 @@
 #### Introduction to C Sololearn Certificate:
 ![image alt](https://github.com/AdiSharan0712/5195900_AdiSharanA/blob/main/C%20Programming/Introduction%20To%20C%20Certificate.jpg?raw=true)
 
+#### C Intermediate Sololearn Certificate:
+![image alt](https://github.com/AdiSharan0712/5195900_AdiSharanA/blob/main/C%20Programming/C%20Intermediate%20Certificate.jpg?raw=true)
+
